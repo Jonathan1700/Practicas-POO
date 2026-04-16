@@ -24,3 +24,4 @@ entrenar ("ejercicio1", "ejercicio2")
 entrenar ("press banca", series =4, repes =8, peso=80)
 
 preparar ("Pollo", "Huevos", gramos_arroz=250, calorias=840)
+

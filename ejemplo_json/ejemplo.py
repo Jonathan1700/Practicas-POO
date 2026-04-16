@@ -2,7 +2,7 @@ import json
 
 diccionario = {
    "estidiante1":{
-       "Nombre": "Isaac Silva",
+       "Nombre": "Isaac Silva torrez",
        "genero": "Hombre",
    },
     "estudiante2":{
